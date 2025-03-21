@@ -7,7 +7,7 @@
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiii1-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-- 📫 Reach me at aashishaik526@gmail.com
+- 📫 Reach me at mounichowdhary28@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
