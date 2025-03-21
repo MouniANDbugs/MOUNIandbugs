@@ -1,4 +1,4 @@
-![Screenshot 2024-08-18 151042](https://github.com/user-attachments/assets/bb69003a-1faf-4a8a-8f9c-d5f1bb121cb8)
+![Screenshot 2024-08-18 151042](![pic](https://github.com/user-attachments/assets/457b906a-7fb3-4bcf-82d6-f377f3a33b37))
 
 <h1 align="center">Hello👋, I'm mouni </h1>
 <h3 align="center">A passionate Python Full Stack Developer and data anyalsist from India</h3>
