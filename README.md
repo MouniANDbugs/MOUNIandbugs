@@ -1,17 +1,17 @@
 ![Screenshot 2024-08-18 151042](https://github.com/user-attachments/assets/bb69003a-1faf-4a8a-8f9c-d5f1bb121cb8)
 
-<h1 align="center">Hello👋, I'm Ashi </h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hello👋, I'm mouni </h1>
+<h3 align="center">A passionate Python Full Stack Developer and data anyalsist from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg">
+<img align="right" alt="coding" width="350" src="![pic](https://github.com/user-attachments/assets/457b906a-7fb3-4bcf-82d6-f377f3a33b37)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiii1-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 - 📫 Reach me at aashishaik526@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_aashii_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aashii_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin./" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aashi526/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mounika-chowdhary-sunkara-197110249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" https://www.linkedin.com/in/mounika-chowdhary-sunkara-197110249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,6 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiii1&show_icons=true&locale=en&layout=compact" alt="ashiii1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiii1&" alt="ashiii1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiii1&" alt="MouniANDbugs" /></p>
 
 
