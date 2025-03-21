@@ -1,4 +1,4 @@
-[pic](https://github.com/user-attachments/assets/457b906a-7fb3-4bcf-82d6-f377f3a33b37)
+
 
 <h1 align="center">Hello👋, I'm mouni </h1>
 <h3 align="center">A passionate Python Full Stack Developer and data anyalsist from India</h3>
