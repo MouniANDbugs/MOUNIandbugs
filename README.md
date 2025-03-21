@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="350" src="![pic](https://github.com/user-attachments/assets/457b906a-7fb3-4bcf-82d6-f377f3a33b37)
 ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiii1-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="![pic](https://github.com/user-attachments/assets/457b906a-7fb3-4bcf-82d6-f377f3a33b37)" /> </p>
 - 📫 Reach me at mounichowdhary28@gmail.com
 
 <h3 align="left">Connect with me:</h3>
